@@ -8,8 +8,8 @@ Extract this .zip file.
 
 Install following libraries:
   Pandas,
-  Scikitlearn
-  Matplotlib
+  Scikitlearn,
+  Matplotlib,
   Numpy
   
 Change the directory in 8th line of ex1.py3 to fetch data from your system.
